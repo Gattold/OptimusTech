@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    padding: 3em;
+}
+
+.container__sobre, .container__diferentes, .container__texto {
+    margin: 1em 0;
+}
+
+.container__sobre {
+    color: var(--cor-vermelho-primario);
+    font-weight: 600;
+}
+
+.container__diferentes {
+    color: var(--cor-preto-primario);
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.container__texto {
+    color: var(--cor-cinza-primario);
+    font-size: 20px;
+    margin: auto;
+}

@@ -1,0 +1,23 @@
+.colaboradores {
+    padding: 1em 7em 10em 7em;
+    text-align: center;
+    align-items: center;
+}
+
+.colaboradores__optimustech--depoimento {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--cor-vermelho-primario);
+    margin-bottom: 1.5em;
+}
+
+.colaboradores__optimustech--auxilio {
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--cor-preto-primario);
+    margin-bottom: 1em;
+}
+
+.colaboradores__optimustech--nome {
+    margin: 1em 0 1em 0;
+}

@@ -1,0 +1,67 @@
+.oportunidades {
+    padding: 3em;
+}
+
+.oportunidades__container--vagas {
+    text-align: center;
+}
+
+.oportunidades__container--vagas-abertas {
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--cor-vermelho-primario);
+    margin-bottom: 1em;
+}
+
+.oportunidades__container--vagas-busca {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--cor-preto-primario);
+    margin-bottom: 0.5em;
+}
+
+.oportunidades__container--vagas-remota {
+    font-size: 20px;
+    color: var(--cor-cinza-primario);
+    margin-bottom: 2.5em;
+}
+
+.oportunidades__container--imagem {
+    width: 1216px;
+    height: 400px;
+    align-items: center;
+    margin-bottom: 2em;
+}
+
+.oportunidades__vagas {
+    margin-left: 20%;
+    margin-bottom: 5em;
+}
+
+.oportunidades__vagas--detalhes {
+    margin-bottom: 2em;
+}
+
+.oportunidades__vagas--detalhes-area {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.oportunidades__vagas--titulo {
+    margin-left: 1.5em;
+}
+
+.oportunidades__vagas--titulo-cargo {
+    margin-bottom: 1em;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.oportunidades__vagas--titulo-salario {
+    display: flex;
+    margin-bottom: 3em;
+}
+
+.oportunidades__vagas--titulo-salario-texto {
+    margin-right: 2em;
+}

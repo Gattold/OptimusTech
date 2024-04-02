@@ -1,0 +1,44 @@
+.acompanhe {
+    padding: 0 4em 4em 4em;
+    text-align: center;
+}
+
+.acompanhe__oportunidades {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--cor-preto-primario);
+    margin-bottom: 0.5em;
+}
+
+.acompanhe__abertas {
+    font-size: 20px;
+    color: var(--cor-cinza-primario);
+    margin-bottom: 2em;
+}
+
+.acompanhe__email--cadastro {
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    padding: 0.7em 1.5em;
+    margin-right: 1em;
+}
+
+.acompanhe__email--cadastro::placeholder {
+    color: var(--cor-cinza-primario);
+}
+
+.acompanhe__email--botao {
+    padding: 0.35em 1em;
+    background-color: var(--cor-vermelho-primario);
+    text-decoration: none;
+    color: var(--branco-principal);
+    font-weight: 500;
+    font-size: 14px;
+    border: 1px solid var(--cor-vermelho-primario);
+    border-radius: 8px;
+}
+
+.acompanhe__email--direitos {
+    color: #98A2B3;
+    margin-top: 1.5em;
+}
